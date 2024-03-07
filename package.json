@@ -1,0 +1,14 @@
+{
+  "name": "oculus",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "serve": "parcel ./src/index.html -p 1111 --open",
+    "build": "parcel build ./src/index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
